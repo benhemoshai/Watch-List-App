@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">FinalKotlinProject</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="movie_title">Not yet selected</string>
+    <string name="movie_list_button">Pick a movie</string>
+    <string name="description_hint">Enter item Description</string>
+    <string name="date_button">Date</string>
+    <string name="finish_button">Finish</string>
+
+    <string name="movie_toast">Pick a movie</string>
+    <string name="date_toast">Pick a date</string>
+
+    <string name="add_movie_button">Add a movie</string>
+    <string name="add_towatchlist_button">Add to watchlist</string>
+
+    <string name="edit_button">Edit</string>
+    <string name="save_changes_button">Save Changes</string>
+
+    <string name="year">Year</string>
+    <string name="type">Type</string>
+    <string name="imdb">imdbID</string>
+
+    <string name="welcome">Welcome To MyWatchlist</string>
+    <string name="mywatchlist_button">My Watchlist</string>
+    <string name="movieslist_button">Movies</string>
+
+</resources>
