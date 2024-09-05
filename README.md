@@ -2,6 +2,11 @@
 
 **Watch-List App** is an Android application that allows users to create and manage their own watch-list of movies. Users can select movies from an external list, add custom descriptions and dates, and organize them in their personal watch-list.
 
+[Watch-List App Demo](https://www.youtube.com/watch?v=5urnhXB--FU)
+
+
+![Watch-list Preview](./watchlist-preview.gif)
+
 ## Overview
 
 This app provides a complete watch-list management system, enabling users to add, edit, and delete movies in their list. It leverages modern Android development tools and libraries to ensure a smooth and efficient user experience. The app follows the MVVM architecture pattern to maintain a clean and scalable codebase.
